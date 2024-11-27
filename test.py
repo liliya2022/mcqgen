@@ -1,3 +1,3 @@
 from src.mcqgenerator.logger import logging
 
-logging.info("hi, i am going to start my execution...")
+logging.info("hi, now i am using neuro lab...")
